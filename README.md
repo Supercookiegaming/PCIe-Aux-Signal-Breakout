@@ -27,7 +27,7 @@ The PCIe Auxiliary Signal Breakout Card is designed to make the auxiliary signal
 * [Ordering Instructions](Instructions/PCB_Order_Instructions.md)
 * [KiCad Instructions](Instructions/KiCad_Install_Instructions.md)
 * [Soldering Instructions](Instructions/Soldering_Instructions.md)
-* [3D Printing Instructions]
+* [3D Printing Instructions](3D-Printing)
   
 ## Issues and Feature Requests
 
