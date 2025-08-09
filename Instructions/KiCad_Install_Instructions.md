@@ -6,7 +6,7 @@ This project is dependant on my [PCIexpress-KiCad repository](https://github.com
 
    `cd desired-repository-location`
    
-   `git clone https://github.com/Supercookiegaming/M.2-to-USB.git`
+   `git clone https://github.com/Supercookiegaming/PCIe-Aux-Signal-Breakout.git`
    
 2. Install the symbol librarys by opening KiCad 9 then going to Prefrences>Manage Symbol Librarys...
 
@@ -19,7 +19,7 @@ This project is dependant on my [PCIexpress-KiCad repository](https://github.com
 4. Set the Nickname of the new row(s) to
 
       
-   `M.2-to-USB-Library`
+   `PCIe-Aux-Signal-Breakout-Symbol-Library`
    
 
 
@@ -27,7 +27,7 @@ This project is dependant on my [PCIexpress-KiCad repository](https://github.com
 
 
    
-   `respository-location/M.2-to-USB/KiCad Files/M.2-to-USB-Library.kicad_sym`
+   `respository-location/PCIe-Aux-Signal-Breakout/KiCad Files/PCIe-Aux-Signal-Breakout-Symbol-Library.kicad_sym`
 
 
    Example of correctly added Symbol Libraries
@@ -46,14 +46,14 @@ This project is dependant on my [PCIexpress-KiCad repository](https://github.com
 9. Set the Nickname of the new row(s) to
 
    
-    `M.2-to-USB-Library`
+    `PCIe-Aux-Signal-Breakout-Footprint-Library`
    
 
 
 10. Set the Library Path to 
 
    
-    `respository-location/M.2-to-USB/KiCad Files/M.2-to-USB-Library.pretty`
+    `respository-location/PCIe-Aux-Signal-Breakout/KiCad Files/PCIe-Aux-Signal-Breakout-Footprint-Library.pretty`
 
 
 
@@ -71,11 +71,11 @@ This project is dependant on my [PCIexpress-KiCad repository](https://github.com
     
 14. Set the Name to
 
-    `KICAD9_USER_M2USB_REPO_DIR`
+    `KICAD9_USER_PCIEZUXBRK_REPO_DIR`
 
 15. Set the Path to root folder of the repository
     
-     `repository-location/M.2-to-USB`
+     `repository-location/PCIe-Aux-Signal-Breakout`
     
     Example of correctly added path:
 
