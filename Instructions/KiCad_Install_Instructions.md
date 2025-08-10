@@ -71,7 +71,7 @@ This project is dependant on my [PCIexpress-KiCad repository](https://github.com
     
 14. Set the Name to
 
-    `KICAD9_USER_PCIEZUXBRK_REPO_DIR`
+    `KICAD9_USER_PCIEAUXBRK_REPO_DIR`
 
 15. Set the Path to root folder of the repository
     
