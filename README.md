@@ -1,7 +1,7 @@
 # PCIe Auxiliary Signal Breakout Card
 ![Development Status](https://img.shields.io/badge/status-v1.0%20Board%20Testing%20Planned-yellow)
 
-![test](Images/3D/Full-Profile-Adapater.PNG)
+![3D Card Render](Images/3D/Full-Profile-Adapater.PNG)
 
 ## Overview
 The PCIe Auxiliary Signal Breakout Card is designed to make the auxiliary signals in a PCIe connection available to the user. This includes SMBus and JTAG. The card also provides 12V, 5V and 3.3V power and the PCIe reset signal which also functions as a 3.3V and 12V power good signal.
@@ -21,6 +21,8 @@ The PCIe Auxiliary Signal Breakout Card is designed to make the auxiliary signal
 * Standard and Low Profile Brackets included
 
 ## Pinout
+
+![Header Pinout](Images/PCIe-Aux-Breakout-Pinout.png)
 
 ## Instructions
 
